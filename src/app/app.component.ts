@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ruis-frontend';
+  movies = [1, 2, 3, 4, 5];
 }
