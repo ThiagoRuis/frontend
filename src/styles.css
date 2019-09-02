@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+mat-card {
+  max-width: 20vw;
+  max-height: 50vh;
+  float: left;
+  margin: 10px;
+}
+/*.container {*/
+/*  display: flex;*/
+/*  max-width: 100vw;*/
+/*  flex: 1;*/
+/*}*/
+
+/*.movie-card {*/
+/*  max-width: 200px;*/
+/*  flex-basis: auto; !* default value *!*/
+/*  flex-grow: 1;*/
+/*  flex-wrap: wrap;*/
+/*}*/
+
+/*@media screen and (min-width: 576px) {*/
+/*  .container {*/
+/*    flex-direction: row;*/
+/*  }*/
+/*  .movie-card {*/
+/*    flex: 0 0 20vw;*/
+/*  }*/
+/*}*/
